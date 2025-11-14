@@ -8,6 +8,8 @@
 
 - How to reach me **xiyue_evan@outlook.com**
 
+- My personal website: [evanyuan.dev](evanyuan.dev)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
