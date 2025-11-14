@@ -8,7 +8,7 @@
 
 - How to reach me **xiyue_evan@outlook.com**
 
-- My personal website: [evanyuan.dev](evanyuan.dev)
+- My personal website: <a href="https://evanyuan.dev" target="_blank">evanyuan.dev</a>
 
 
 <h3 align="left">Connect with me:</h3>
